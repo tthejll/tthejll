@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tthejll
 - 👀 I’m interested in emotional inferences based on nonverbal communication (mainly facial expressions) and educational research
-- 🌱 I’m currently learning everything because I'm better at learning than knowing, but then also ML
+- 🌱 I’m currently learning different ML techniques to build socially intelligent virtual agents
 - 📫 How to reach me - best place is email t.thejll-madsen.1@research.gla.ac.uk
 
 <!---
